@@ -1,0 +1,1701 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OnlineWatchStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineWatchStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\index.html",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\all.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\lightslider.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\lightslider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\style.map",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\adapt_icon\\1.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\adapt_icon\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\author\\author_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\author\\author_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\author\\author_2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\author\\author_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\author\\author_3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\author\\author_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\banner\\img.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\banner\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\c1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\c2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\c3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\card1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\card1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\card2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\card2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\choce_watch1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\choce_watch1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\choce_watch2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\choce_watch2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery01.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery01.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery4.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery4.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\gallery5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\new_product1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\new_product1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\new_product2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\new_product2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\new_product3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\new_product3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\popular1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\popular1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\popular2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\popular2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\popular3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\popular3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\popular4.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\popular4.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\popular5.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\popular5.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\popular6.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\popular6.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\sectin_bg1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\sectin_bg1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\gallery\\vidoe_more.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\gallery\\vidoe_more.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\Industries_hero.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\Industries_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\about_hero.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\about_hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\category.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\category.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\contact_hero.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\contact_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\gallery_hero.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\gallery_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\hero_man.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\hero_man.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\services_hero.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\services_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\hero\\watch.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\hero\\watch.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\img\\testmonial\\Homepage_testi.png",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\img\\testmonial\\Homepage_testi.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\cells-by-column.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\cells-by-column.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery-1.12.1.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery-1.12.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.downCount.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.downCount.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\lightslider.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\lightslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\price_rangs.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\price_rangs.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\swiper.jquery.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\swiper.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\swiper_custom.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\swiper_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_about_us.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_about_us.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_best-product.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_best-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_best_seller.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_best_seller.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_category.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_category.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_client_logo.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_client_logo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_client_review.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_client_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_confirmation_part.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_confirmation_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_copyright_part.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_copyright_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_cource_details.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_cource_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_cta_part.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_cta_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_feature_part.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_feature_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_instagram_photo.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_instagram_photo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_latest_products.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_latest_products.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_new-product.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_new-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_new_arrival.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_new_arrival.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_our_offer.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_our_offer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_popular-items.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_popular-items.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_product_list.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_product_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_recent.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_recent.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_review.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_shipping_details.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_shipping_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_shop-method.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_shop-method.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_single_blog.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_single_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_single_product.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_single_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_special_cource.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_special_cource.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_subscribe_part.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_subscribe_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_trending_items.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_trending_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_video_area.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_video_area.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\_view-list-grid.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\_view-list-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\AdminTemplate\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplate\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineWatchStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineWatchStore.props",
+      "PackagePath": "build\\OnlineWatchStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineWatchStore.props",
+      "PackagePath": "buildMultiTargeting\\OnlineWatchStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineWatchStore.props",
+      "PackagePath": "buildTransitive\\OnlineWatchStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
