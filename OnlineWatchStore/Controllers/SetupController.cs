@@ -7,7 +7,7 @@ namespace OnlineWatchStore.Controllers
 {
     public class SetupController : Controller
     {
-        public WatchStoreDbContext context { get; set; }
+        public WatchStoreDbContext context;
         private SetupRepo setupRepo { get; set; }
 
         public SetupController(WatchStoreDbContext context)

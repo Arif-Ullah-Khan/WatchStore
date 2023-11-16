@@ -10,7 +10,7 @@
         <input type="text" asp-for=BrandItem.BrandName class="form-control" placeholder="Brand Name">
     </div>
     <div class="col-auto">
-        <button type="submit" class="btn btn-sm btn-primary" style="padding:18px;">Add Brand</button>
+        <button type="submit" class="btn btn-primary" >Add Brand</button>
     </div>
 </form>
 <br />
@@ -34,8 +34,8 @@
                     <td>@(count++)</td>
                     <td>@item.BrandName</td>
                     <td>
-                        <a asp-action="Edit" class="btn btn-info" style="padding:18px;" asp-route-id="@item.BrandName">Edit</a>
-                        <a asp-action="Delete" class="btn btn-danger" style="padding:18px;" asp-route-id="@item.BrandName">Delete</a>
+                        <a asp-action="Edit" class="btn btn-info" asp-route-id="@item.BrandName"><i class="fas fa-pen"></i> Edit</a>
+                        <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.BrandName"><i class="fas fa-trash"></i> Delete</a>
                     </td>
                 </tr>
             }
