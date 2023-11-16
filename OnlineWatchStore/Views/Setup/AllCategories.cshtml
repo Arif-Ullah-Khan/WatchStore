@@ -1,0 +1,45 @@
+﻿@model OnlineWatchStore.ViewModels.SetupVM
+
+@{
+    ViewData["Title"] = "AllCategories";
+}
+
+
+<form method="post" action="AddNewCategory" class="row g-3">
+    <div class="col-auto">
+        <input type="text" asp-for=CategoryItem.CategoryName class="form-control" placeholder="Category Name">
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-sm btn-primary" style="padding:18px;">Add Category</button>
+    </div>
+</form>
+<br />
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Sr.</th>
+            <th>Category Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 1;
+        }
+        @if (Model.CategoryList != null)
+        {
+            @foreach (var item in Model.CategoryList)
+            {
+                <tr>
+                    <td>@(count++)</td>
+                    <td>@item.CategoryName</td>
+                    <td>
+                        <a asp-action="Edit" class="btn btn-info" style="padding:18px;" asp-route-id="@item.CategoryName">Edit</a>
+                        <a asp-action="Delete" class="btn btn-danger" style="padding:18px;" asp-route-id="@item.CategoryName">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

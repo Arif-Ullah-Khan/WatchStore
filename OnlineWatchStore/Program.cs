@@ -1,8 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using OnlineWatchStore.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+var provider = builder.Services.BuildServiceProvider();
+var config = provider.GetRequiredService<IConfiguration>();
+builder.Services.AddDbContext<WatchStoreDbContext>(item => item.UseSqlServer(config.GetConnectionString("dbcs")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
