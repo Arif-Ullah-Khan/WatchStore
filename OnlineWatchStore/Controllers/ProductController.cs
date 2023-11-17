@@ -28,11 +28,6 @@ namespace OnlineWatchStore.Controllers
             productRepo.GetAllProducts(vm);
             return View(vm);
         }
-        //public IActionResult AddNewProduct()
-        //{
-        //    var vm = new ProductVM();
-        //    return PartialView(vm);
-        //}
         [HttpPost]
         public IActionResult AddNewProduct(ProductVM vm)
         {
@@ -40,9 +35,11 @@ namespace OnlineWatchStore.Controllers
 
             return RedirectToAction("AllProducts");
         }
-        public IActionResult EditProduct(int id)
+        public IActionResult Edit(int id)
         {
-            return View();
+            var vm = new ProductVM();
+            productRepo.GetSpecficProduct(id,vm);
+            return RedirectToAction("AllProducts");
         }
         #endregion Product
     }

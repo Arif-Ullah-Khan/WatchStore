@@ -16,18 +16,18 @@ namespace OnlineWatchStore.Repositories
         {
             vm.ProductList = context.Products.ToList();
         }
-        public void GetSpecficProduct()
+        public void GetSpecficProduct(int id,ProductVM vm)
         {
+            vm.ProductItem = context.Products.Where(x => x.ProductId == id).FirstOrDefault();
 
         }
         public int AddNewProduct(ProductVM vm)
         {
             try
             {
-                var productid = context.Products.Max(m => m.ProductId) + 1;
+                //var productid = context.Products.Max(m => (int?)m.ProductId) ?? 0 + 1;
                 var entity = new Product
                 {
-                    ProductId = productid,
                     Name = vm.ProductItem.Name,
                     BrandName = vm.ProductItem.BrandName,
                     CategoryName = vm.ProductItem.CategoryName,
@@ -37,7 +37,7 @@ namespace OnlineWatchStore.Repositories
                 };
                 context.Products.Add(entity);
                 var a = context.SaveChanges();
-                if (a>0)
+                if (a > 0)
                 {
                     return 1;
                 }
@@ -51,7 +51,7 @@ namespace OnlineWatchStore.Repositories
 
                 throw;
             }
-            
+
         }
         public void UpdateProduct()
         {
