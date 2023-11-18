@@ -16,7 +16,7 @@ namespace OnlineWatchStore.Repositories
 
         public void GetAllProducts(ProductVM vm)
         {
-            vm.ProductList = context.Products.ToList();
+            vm.ProductList = context.Products.Include(s => s.Stocks).ToList();
         }
         public void GetSpecficProduct(int id, ProductVM vm)
         {
