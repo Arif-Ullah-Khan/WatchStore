@@ -1,0 +1,60 @@
+﻿@model OnlineWatchStore.ViewModels.UserVM
+@{
+    ViewData["Title"] = "Edit";
+}
+<link href="~/admintemplate/assets/css/bootstrap.min.css" rel="stylesheet" />
+<p>
+    <span class="badge badge-danger">@ViewBag.Message</span>
+</p>
+<h1>Edit User</h1>
+<br />
+<form action="Edit" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <input asp-for="UserItem.UserId" type="text" hidden/>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">Name</label>
+                    <input type="text" asp-for=UserItem.Name class="form-control" placeholder="Name">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">Phone</label>
+                    <input type="number" asp-for=UserItem.Phone class="form-control" placeholder="+9233">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">Email</label>
+                    <input type="text" asp-for=UserItem.Email class="form-control" placeholder="exmple.com">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">Address</label>
+                    <input type="text" asp-for=UserItem.Address class="form-control" placeholder="123,bannu">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6" style="border-left:1px solid;">
+            <div class="row">
+                <div class="col-md-12">
+                    <label for="inputAddress">UserName</label>
+                    <input asp-for=UserItem.Username type="text" class="form-control" placeholder="abc123" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <label for="inputAddress">Password</label>
+                    <input asp-for=UserItem.Password type="text" class="form-control" placeholder="*****" />
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-12">
+                    <button type="submit" class="btn btn-primary form-cont mt-3">Update User</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<br />
+<a asp-action="AllUsers" class="btn btn-primary">Back To List</a>
+
+

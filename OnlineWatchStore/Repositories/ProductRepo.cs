@@ -28,17 +28,6 @@ namespace OnlineWatchStore.Repositories
         {
             try
             {
-                //string uniqueFileName = null;
-                //if (vm.ImagePath != null)
-                //{
-                //    string uploadsFolder = Path.Combine(webHostEnvironment.WebRootPath, "images");
-                //    uniqueFileName = Guid.NewGuid().ToString() + "_" + vm.ImagePath.FileName;
-                //    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
-                //    using (var fileStream = new FileStream(filePath, FileMode.Create))
-                //    {
-                //        vm.ImagePath.CopyTo(fileStream);
-                //    }
-                //}
                 var entity = new Product
                 {
                     Name = vm.ProductItem.Name,
