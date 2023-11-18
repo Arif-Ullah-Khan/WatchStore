@@ -38,7 +38,17 @@ namespace OnlineWatchStore.Controllers
         public IActionResult Edit(int id)
         {
             var vm = new ProductVM();
+            ViewBag.Brands = context.Brands.ToList();
+            ViewBag.Categories = context.Categories.ToList();
             productRepo.GetSpecficProduct(id,vm);
+            return View(vm);
+        }
+        [HttpPost]
+        public IActionResult Edit(ProductVM vm)
+        {
+            ViewBag.Brands = context.Brands.ToList();
+            ViewBag.Categories = context.Categories.ToList();
+            productRepo.UpdateProduct(vm);
             return RedirectToAction("AllProducts");
         }
         #endregion Product

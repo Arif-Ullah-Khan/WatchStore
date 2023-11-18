@@ -1,14 +1,15 @@
 ﻿@model OnlineWatchStore.ViewModels.ProductVM
-
 @{
-    ViewData["Title"] = "AllProducts";
+    ViewData["Title"] = "Edit";
 }
 <link href="~/admintemplate/assets/css/bootstrap.min.css" rel="stylesheet" />
-
-<form action="AddNewProduct" method="post" enctype="multipart/form-data">
+<h1>Edit Product</h1>
+<br />
+<form action="Edit" method="post" enctype="multipart/form-data">
     <div class="row">
         <div class="col-md-6">
             <div class="form-row">
+                <input asp-for="ProductItem.ProductId" hidden/>
                 <div class="form-group col-md-6">
                     <label for="inputEmail4">Name</label>
                     <input type="text" asp-for=ProductItem.Name class="form-control" placeholder="Name">
@@ -31,64 +32,34 @@
                     <label for="inputAddress">Description</label>
                     <input type="text" asp-for=ProductItem.Description class="form-control" placeholder="1234 Main St">
                 </div>
-               
+
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <label for="inputAddress">Quantity</label>
+                    <input type="number" asp-for=StockItem.QuantityAvailable class="form-control" placeholder="123">
+                </div>
+
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6" style="border-left:1px solid;">
             <div class="row">
                 <div class="col-md-12">
                     <label for="inputAddress">Image</label>
-                    <input asp-for=ImagePath type="file" class="form-control"/>
+                    <input asp-for=ImagePath type="file" class="form-control" />
+                    <img src="~/images/@Model?.ProductItem?.Image" alt="Image Preview" class="mt-2" style="max-width: 100%;" />
                 </div>
 
             </div>
             <div class="form-row">
                 <div class="col-md-12">
-                    <button type="submit" class="btn btn-primary form-cont mt-3">Add Product</button>
+                    <button type="submit" class="btn btn-primary form-cont mt-3">Update Product</button>
                 </div>
             </div>
         </div>
     </div>
-
-
-
 </form>
-
 <br />
-<table class="table table-striped">
-    <thead>
-        <tr>
-            <th>Sr.</th>
-            <th>Name</th>
-            <th>Brand Name</th>
-            <th>Category Name</th>
-            <th>Pric Name</th>
-            <th>Description</th>
-            <th>Action</th>
-        </tr>
-    </thead>
-    <tbody>
-        @{
-            int count = 1;
-        }
-        @if (Model.ProductList != null)
-        {
-            @foreach (var item in Model.ProductList)
-            {
-                <tr>
-                    <td>@(count++)</td>
-                    <td>@item.Name</td>
-                    <td>@item.BrandName</td>
-                    <td>@item.CategoryName</td>
-                    <td>@item.Price</td>
-                    <td>@item.Description</td>
-                    <td>
-                        <a asp-action="Edit" class="btn btn-info" style="padding:18px;" asp-route-id="@item.ProductId">Edit</a>
-                        <a asp-action="Delete" class="btn btn-danger" style="padding:18px;" asp-route-id="@item.ProductId">Delete</a>
-                    </td>
-                </tr>
-            }
-        }
+<a  asp-action="AllProducts" class="btn btn-primary">Back To List</a>
 
-    </tbody>
-</table>
+

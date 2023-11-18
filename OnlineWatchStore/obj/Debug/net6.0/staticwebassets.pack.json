@@ -1449,6 +1449,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\face1.jpg",
+      "PackagePath": "staticwebassets\\images\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\face3.jpg",
+      "PackagePath": "staticwebassets\\images\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\face6.jpg",
+      "PackagePath": "staticwebassets\\images\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\face7.jpg",
+      "PackagePath": "staticwebassets\\images\\face7.jpg"
+    },
+    {
       "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
