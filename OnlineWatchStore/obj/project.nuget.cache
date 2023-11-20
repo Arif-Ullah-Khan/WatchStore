@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K9h0TzQXDjWbD5hmAg9TphhccjS/cE9Tu2IsZbMyuWpJb2wVm+Jdfqakqlmla5EnN2ZJuj0ykU0LenYCWWER6A==",
+  "dgSpecHash": "a/Usv2mF4+PKRnnTie9F3q0ltxjWuLQfbMqZbi7WK5F/lxZ4PR49nLEUIDaCAln/6ZcA3EyMv/+ryGhCX7ifhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\OnlineWatchStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Black\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Black\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\Black\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
     "C:\\Users\\Black\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Black\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Black\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

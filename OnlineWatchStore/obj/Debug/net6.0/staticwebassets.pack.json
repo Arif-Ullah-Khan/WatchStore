@@ -1449,6 +1449,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\card1.png",
+      "PackagePath": "staticwebassets\\images\\card1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\card2.png",
+      "PackagePath": "staticwebassets\\images\\card2.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\choce_watch1.png",
+      "PackagePath": "staticwebassets\\images\\choce_watch1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\choce_watch2.png",
+      "PackagePath": "staticwebassets\\images\\choce_watch2.png"
+    },
+    {
       "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\face1.jpg",
       "PackagePath": "staticwebassets\\images\\face1.jpg"
     },
@@ -1463,6 +1479,14 @@
     {
       "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\face7.jpg",
       "PackagePath": "staticwebassets\\images\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\gallery1.png",
+      "PackagePath": "staticwebassets\\images\\gallery1.png"
+    },
+    {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\gallery2.png",
+      "PackagePath": "staticwebassets\\images\\gallery2.png"
     },
     {
       "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\js\\site.js",
