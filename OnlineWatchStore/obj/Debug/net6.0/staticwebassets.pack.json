@@ -1489,6 +1489,10 @@
       "PackagePath": "staticwebassets\\images\\gallery2.png"
     },
     {
+      "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\popular3.png",
+      "PackagePath": "staticwebassets\\images\\popular3.png"
+    },
+    {
       "Id": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

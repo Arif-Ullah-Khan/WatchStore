@@ -9,11 +9,13 @@ namespace OnlineWatchStore.Controllers
     {
         private readonly WatchStoreDbContext context;
         private readonly ShopRepo shopRepo;
+        private readonly ProductRepo productRepo;
 
         public ShopController(WatchStoreDbContext context)
         {
             this.context = context;
             shopRepo = new ShopRepo(context);
+            productRepo = new ProductRepo(context);
         }
         public IActionResult Index()
         {
@@ -24,6 +26,20 @@ namespace OnlineWatchStore.Controllers
         {
             shopRepo.getProjectsForShop(vm);
             return View(vm);
+        }
+        public IActionResult View(int id)
+        {
+            var vm = new ShopVM();
+            shopRepo.ViewProductDetail(id, vm);
+            return View(vm);
+        }
+        [HttpPost]
+        public IActionResult AddToCart(ShopVM vm)
+        {
+
+            int cartid = shopRepo.AddToCart(vm);
+            shopRepo.AddProductToCartItem(vm, cartid);
+            return View();
         }
     }
 }

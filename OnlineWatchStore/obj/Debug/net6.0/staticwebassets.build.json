@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7anhZ7XdWQG1rQpLzQKC7NirA1JgnzxuHZyrcT4Ubcw=",
+  "Hash": "Wq0CpCPe0Z80QETcxihSXGJ8rmXTsmfmMNoh07CG36s=",
   "Source": "OnlineWatchStore",
   "BasePath": "_content/OnlineWatchStore",
   "Mode": "Default",
@@ -6356,6 +6356,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\gallery2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\images\\popular3.png",
+      "SourceId": "OnlineWatchStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\",
+      "BasePath": "_content/OnlineWatchStore",
+      "RelativePath": "images/popular3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\popular3.png"
     },
     {
       "Identity": "C:\\Users\\Black\\Desktop\\WatchStore\\OnlineWatchStore\\wwwroot\\js\\site.js",

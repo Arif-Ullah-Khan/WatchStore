@@ -1,0 +1,150 @@
+﻿@model OnlineWatchStore.ViewModels.ShopVM
+@{
+    ViewData["Title"] = "View";
+}
+<style>
+    .gallery-wrap .img-big-wrap img {
+        height: 450px;
+        width: auto;
+        display: inline-block;
+        cursor: zoom-in;
+    }
+
+
+    .gallery-wrap .img-small-wrap .item-gallery {
+        width: 60px;
+        height: 60px;
+        border: 1px solid #ddd;
+        margin: 7px 2px;
+        display: inline-block;
+        overflow: hidden;
+    }
+
+    .gallery-wrap .img-small-wrap {
+        text-align: center;
+    }
+
+        .gallery-wrap .img-small-wrap img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: cover;
+            border-radius: 4px;
+            cursor: zoom-in;
+        }
+</style>
+
+<div class="container">
+    <br>
+    <hr>
+
+
+    <div class="card">
+        <div class="row">
+            <aside class="col-sm-5 border-right">
+                <article class="gallery-wrap">
+                    <div class="img-big-wrap">
+                        <div> <a href="#"><img src="~/images/@Model?.Product?.Image"></a></div>
+                    </div> <!-- slider-product.// -->
+                    <div class="img-small-wrap">
+                        <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
+                        <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
+                        <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
+                        <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
+                    </div> <!-- slider-nav.// -->
+                </article> <!-- gallery-wrap .end// -->
+            </aside>
+            <aside class="col-sm-7">
+                <article class="card-body p-5">
+                    <h3 class="title mb-3">@Model?.Product?.Name</h3>
+
+                    <p class="price-detail-wrap">
+                        <span class="price h3 text-warning">
+                            <span class="currency">Rs </span><span class="num">@Model?.Product?.Price</span>
+                        </span>
+                        <span>/per Item</span>
+                    </p> <!-- price-detail-wrap .// -->
+                    <dl class="item-property">
+                        <dt>Description</dt>
+                        <dd>
+                            <p>
+                                @Model?.Product?.Description
+                            </p>
+                        </dd>
+                    </dl>
+                    <dl class="param param-feature">
+                        <dt>Brand#</dt>
+                        <dd>@Model?.Product?.BrandName</dd>
+                    </dl>  <!-- item-property-hor .// -->
+                    <dl class="param param-feature">
+                        <dt>Category</dt>
+                        <dd>@Model?.Product?.CategoryName</dd>
+                    </dl>  <!-- item-property-hor .// -->
+                    <dl class="param param-feature">
+                        <dt>Delivery</dt>
+                        <dd>Ciyt, Bannu, and Village</dd>
+                    </dl>  <!-- item-property-hor .// -->
+
+                    <hr>
+                    <form asp-action="AddToCart"  method="post">
+                        <div class="row">
+                            <input type="text" asp-for="Product.ProductId" hidden />
+                            <input type="text" asp-for="Product.Price" hidden/>
+                            <div class="col-sm-5">
+                                <dl class="param param-inline">
+                                    <dt>Quantity: </dt>
+                                    <dd>
+                                        <select asp-for="Quantity" class="form-control form-control-sm" style="width:70px;">
+                                            <option> 1 </option>
+                                            <option> 2 </option>
+                                            <option> 3 </option>
+                                            <option> 4 </option>
+                                            <option> 5 </option>
+                                        </select>
+                                    </dd>
+                                </dl>  <!-- item-property .// -->
+                            </div> <!-- col.// -->
+                            <div class="col-sm-7">
+                                <dl class="param param-inline">
+                                    <dt>Available: </dt>
+                                    <dd>
+                                        <label class="form-check form-check-inline">
+                                            <span class="form-check-label">@Model?.Stock?.QuantityAvailable</span>
+                                        </label>
+                                    </dd>
+                                </dl>  <!-- item-property .// -->
+                            </div> <!-- col.// -->
+                        </div> <!-- row.// -->
+                        <hr>
+                        <a href="#" class="btn btn-lg btn-primary text-uppercase"> Buy now </a>
+                        <button type="submit" class="btn btn-lg btn-outline-primary text-uppercase"> <i class="fas fa-shopping-cart"></i> Add to cart </button>
+                    </form>
+                </article> <!-- card-body.// -->
+            </aside> <!-- col.// -->
+        </div> <!-- row.// -->
+    </div> <!-- card.// -->
+
+
+</div>
+<!--container.//-->
+
+
+<br>
+<br>
+<br>
+<article class="bg-secondary mb-3">
+    <div class="card-body text-center">
+        <h4 class="text-white">HTML UI KIT <br> Ready to use Bootstrap 4 components and templates </h4>
+        <p class="h5 text-white">
+            for Ecommerce, marketplace, booking websites
+            and product landing pages
+        </p>   <br>
+        <p>
+            <a class="btn btn-warning" target="_blank" href="http://bootstrap-ecommerce.com/">
+                Bootstrap-ecommerce.com
+                <i class="fa fa-window-restore "></i>
+            </a>
+        </p>
+    </div>
+    <br><br><br>
+</article>
+

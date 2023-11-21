@@ -4,7 +4,10 @@ namespace OnlineWatchStore.ViewModels
 {
     public class ShopVM
     {
-        public List<getProducts> GetProductList { get; set; }
+        public int Quantity { get; set; }
+        public Product Product{ get; set; }
+		public Stock Stock { get; set; }
+		public List<getProducts> GetProductList { get; set; }
     }
     public class getProducts
     {

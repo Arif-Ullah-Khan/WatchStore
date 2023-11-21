@@ -62,14 +62,16 @@
                                     <div class="popular-img">
                                         <img src="~/images/@product?.Product?.Image" alt="" width="200px;" height="300px;">
                                         <div class="img-cap">
+                                            <a href="/Shop/View/@product.Product.ProductId">
                                             <span>Add to cart</span>
+                                            </a>
                                         </div>
                                         <div class="favorit-items">
                                             <span class="flaticon-heart"></span>
                                         </div>
                                     </div>
                                     <div class="popular-caption">
-                                        <h3><a href="product_details.html">@product.Product.Name</a></h3>
+                                        <h3><a href="/Shop/View/@product.Product.ProductId">@product.Product.Name</a></h3>
                                         <span>$ @product.Product.Price</span>
                                     </div>
                                 </div>
