@@ -36,10 +36,17 @@ namespace OnlineWatchStore.Controllers
         [HttpPost]
         public IActionResult AddToCart(ShopVM vm)
         {
-
             int cartid = shopRepo.AddToCart(vm);
             shopRepo.AddProductToCartItem(vm, cartid);
-            return View();
+
+            return RedirectToAction(nameof(ViewProducts));
+        }
+        public IActionResult Cart()
+        {
+            var vm = new ShopVM();
+            int cartid = shopRepo.AddToCart(vm);
+            shopRepo.GetCartList(vm, cartid);
+            return View(vm);
         }
     }
 }

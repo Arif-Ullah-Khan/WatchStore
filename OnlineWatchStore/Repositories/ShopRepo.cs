@@ -46,18 +46,33 @@ namespace OnlineWatchStore.Repositories
         {
             try
             {
+                var totalprice = vm.Product.Price * vm.Quantity;
                 var cartitem = new CartItem
                 {
                     CartId = CartId,
                     ProductId = vm.Product.ProductId,
                     Quantity = vm.Quantity,
-                    Price = vm.Product.Price
+                    Price = vm.Product.Price,
+                    TotalPrice = totalprice
                 };
                 context.CartItems.Add(cartitem);
                 context.SaveChanges();
             }
             catch (Exception ex)
             {
+                throw;
+            }
+        }
+        public void GetCartList(ShopVM vm,int cartid)
+        {
+            try
+            {
+                vm.CartItemList = context.CartItems.Where(x => x.CartId == cartid).Include(x=>x.Product).ToList();
+
+            }
+            catch (Exception ex)
+            {
+
                 throw;
             }
         }
